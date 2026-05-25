@@ -1,2 +1,2 @@
 # majorproject2
-Generative AI–Based Manufacturing Quality Issue Analyzer
+GenAI–Based Automobile Manufacturing Quality Issue Analyzer
