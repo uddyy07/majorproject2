@@ -11,7 +11,7 @@ from groq import RateLimitError
 # ================================
 
 st.set_page_config(
-    page_title="AI-Assisted Automotive Manufacturing Quality Analyzer",,
+    page_title="AI-Assisted Automotive Manufacturing Quality Analyzer",
     layout="wide"
 )
 
