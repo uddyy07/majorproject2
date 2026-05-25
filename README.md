@@ -1,2 +1,2 @@
 # majorproject2
-GenAI–Based Automobile Manufacturing Quality Issue Analyzer
+AI-Assisted Automotive Manufacturing Quality Analyzer
